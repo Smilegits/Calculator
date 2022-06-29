@@ -1,0 +1,31 @@
+.body {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-color: #BDE6F1;
+}
+
+.title {
+    font-family: 'Goldman', cursive;
+    font-size: 5.29rem;
+    color: #7D1E6A;
+}
+
+.cal-but {
+    padding: 20px;
+    margin: 20px;
+    background-color: #FFE59D;
+    border-radius: 30px;
+}
+
+.cal-but:hover{
+  background-color: #F9F3EE;
+}
+#display {
+    margin: 40px;
+    padding: 30px;
+    font-size: 40px;
+    width: 80%;
+    background-color: #F9F3EE;
+    border-radius: 20px;
+    text-align: end;
+}
